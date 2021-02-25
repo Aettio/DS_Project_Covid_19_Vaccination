@@ -22,4 +22,4 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ## Введение
 
-![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/Images/Vaccine.jpg)
+![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Vaccine.jpg)
