@@ -38,7 +38,7 @@ p.s. Во всём коде дополнительно были сделаны �
 
 # Самые используемые вакцины
 
-![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/top_vaccines.jpg)
+![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/top_vaccines.png)
 
 ## Источники
 
