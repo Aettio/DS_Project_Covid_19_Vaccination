@@ -56,7 +56,7 @@ p.s. Во всём коде дополнительно были сделаны �
 
 # Где вакцинируются больше людей в день?
 
-![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Total_vaccinations_per_hundred.png)
+![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Total_vaccinations_perhundred.png)
 
 ## Итог
 
