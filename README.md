@@ -48,6 +48,8 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Vaccinations_by_country.png)
 
+## Итог
+
 ## Источники
 
 - Датасет : https://www.kaggle.com/gpreda/covid-world-vaccination-progress
