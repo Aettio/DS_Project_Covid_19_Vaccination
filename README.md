@@ -54,7 +54,7 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Vaccinations_by_country.png)
 
-# Где вакцинируются больше людей в день? Но в процентах от всего населения?
+# Где вакцинируются больше людей в день?
 
 ![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Total_vaccinations_per_hundred.png)
 
