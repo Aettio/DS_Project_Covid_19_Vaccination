@@ -44,11 +44,11 @@ p.s. Во всём коде дополнительно были сделаны �
 
 А вот и собтвенно ответ на первый вопрос.
 
-![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/top_vaccines.png)
+![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Vaccines_by_country.jpeg)
 
 # Самые используемые вакцины
 
-![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Vaccines_by_country.jpg)
+![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Vaccinations_by_country.png)
 
 # Топ 20 стран по общему количеству вакцинаций
 
