@@ -48,7 +48,7 @@ p.s. Во всём коде дополнительно были сделаны �
 
 # Самые используемые вакцины
 
-![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Vaccines_by_country.png)
+![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Vaccines_by_country.jpg)
 
 # Топ 20 стран по общему количеству вакцинаций
 
