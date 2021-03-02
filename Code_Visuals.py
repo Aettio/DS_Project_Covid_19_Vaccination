@@ -14,6 +14,8 @@ df = pd.read_csv("country_vaccinations.csv")
 
 df.head()
 
+# Самые используемые вакцины
+
 df = df.fillna(0)
 pd.DataFrame(df['vaccines'].value_counts())
 
