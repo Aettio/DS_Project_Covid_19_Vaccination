@@ -14,10 +14,23 @@ df = pd.read_csv("country_vaccinations.csv")
 
 df.head()
 
+df = df.fillna(0)
+
 # Самые используемые вакцины
 
-df = df.fillna(0)
-pd.DataFrame(df['vaccines'].value_counts())
+vaccine_index = df.vaccines.unique()
+vaccines = df.groupby("vaccines")
+
+vac_pop = pd.DataFrame()
+
+for col, group in vaccines:
+    vac_pop.loc[col,"total_vaccination"] = group["daily_vaccinations"].sum()
+    
+vac_pop= vac_pop.sort_values(by=["total_vaccination"], ascending= False)
+vac_pop
+
+top_vcn = sns.barplot(data=vac_pop, x = vac_pop.total_vaccination, y = vac_pop.index, palette="viridis")
+top_vcn.set(xlabel='Total vaccinations',ylabel='Vaccine names')
 
 
 # Какие вакцины используются в разных странах?
