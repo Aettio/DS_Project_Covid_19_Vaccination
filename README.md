@@ -54,6 +54,10 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/Vaccinations_by_country.png)
 
+# Топ cтран по проценту
+
+![alt text](https://github.com/Aettio/DS_Project_Covid_19_Vaccination/blob/main/Images/VTotal_vaccinations_per_hundred.png)
+
 ## Итог
 
 ## Источники
