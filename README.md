@@ -74,3 +74,5 @@ p.s. С момента завершения мною данного проект
 ## Источники
 
 - Датасет : https://www.kaggle.com/gpreda/covid-world-vaccination-progress
+- plotly.express.choropleth документация : https://plotly.github.io/plotly.py-docs/generated/plotly.express.choropleth.html
+- Seaborn документация : https://seaborn.pydata.org/introduction.html
