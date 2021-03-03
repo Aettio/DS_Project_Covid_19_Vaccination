@@ -55,11 +55,9 @@ graph_top20.set(xlabel='Country',ylabel='Total vaccinations')
 
 # Где вакцинируются больше людей в день? Но в процентах от всего населения?
 
-top_country = df.groupby(['country'])["total_vaccinations_per_hundred"].sum().reset_index()
-top_country = top_country.nlargest(20, ['total_vaccinations_per_hundred']).reset_index()
-del top_country['index']
-top_country
-
-graph_twph = sns.barplot(x=top_country['total_vaccinations_per_hundred'], y=top_country['country'], palette="viridis")
-graph_twph.set(xlabel='Country',ylabel='Total vaccinations per hundred')
+fig=px.choropleth(df, locations='country', locationmode='country names', color='total_vaccinations_per_hundred',
+                 color_continuous_scale="rdpu")
+fig.write_image("images/fig1.jpeg", width=1700,height=850, scale=3)
+fig.update_layout(title='Total Vaccinations Per Hundred by Country')
+fig
 
