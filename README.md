@@ -1,4 +1,4 @@
-# Data science | Project: "COVID-19 World Vaccination Progress"
+# Data science | Project : "COVID-19 World Vaccination Progress"
 
 ## Гайд по проекту
 
